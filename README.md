@@ -1,3 +1,5 @@
+### About me
+
 👋 Hi there! I'm Julia, a Frontend Developer with a background in Computer Science from the University of Gdansk. 🎓
 
 🚀 I'm proficient in HTML, CSS, JavaScript, and React, with hands-on experience developing responsive and intuitive web applications. I have a passion for translating design concepts into functional user interfaces, ensuring a seamless user experience. I'm dedicated to staying updated with the latest frontend trends and technologies to deliver high-quality, visually engaging, and user-friendly web solutions.
