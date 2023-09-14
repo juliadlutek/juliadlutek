@@ -6,7 +6,7 @@
 
 ### Experience:
 
-1. **Frontend Developer Intern, Silky Coders** (Gdańsk, July 2022 - January 2023)
+- **Frontend Developer Intern, Silky Coders** (Gdańsk, July 2022 - January 2023)
 
    - Developed and maintained user interfaces using HTML, SCSS, JavaScript, React, and Redux for a high-traffic e-commerce platform.
    - Collaborated closely with UX&UI team to create visually appealing and user-friendly interfaces.
@@ -15,7 +15,7 @@
    - Worked in an agile team environment, contributing to daily stand-ups and using Jira kanban board for task management.
    - Proactively kept up-to-date with the latest frontend technologies through continuous learning and online courses.
 
-2. **RPA Business Analyst Intern, Hapag-Lloyd** (Gdańsk, October 2023 - September 2023)
+- **RPA Business Analyst Intern, Hapag-Lloyd** (Gdańsk, October 2023 - September 2023)
    - Acquired a solid understanding of business requirements, which significantly contributes to my role as a programmer by allowing me to align technical solutions with business needs effectively.
    - Conducted data analysis to extract valuable insights and patterns, aiding in data-driven decision-making processes.
    - Worked collaboratively in an agile team environment, utilizing tools such as Jira and Confluence for project management, sprint planning, and documentation.
