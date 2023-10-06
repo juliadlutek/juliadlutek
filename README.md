@@ -1,10 +1,12 @@
 ### About me
 
-👋 Hi there! I'm Julia, a Frontend Developer with a background in Computer Science from the University of Gdansk. 🎓
+👋 Hi there! I'm Julia, a tech enthusiast with a strong background in Computer Science from the University of Gdansk.  🌟
 
-🚀 I'm proficient in HTML, CSS, JavaScript, and React, with hands-on experience developing responsive and intuitive web applications. I have a passion for translating design concepts into functional user interfaces, ensuring a seamless user experience. I'm dedicated to staying updated with the latest frontend trends and technologies to deliver high-quality, visually engaging, and user-friendly web solutions.
+🚀 I have a passion for exploring various IT domains, and my knowledge spans from the mathematical foundations of computer science to algorithms and data structures. I am also well-versed in various programming languages, including JavaScript, Python, and Java.
 
 ### Experience:
+
+I have a diverse professional background, having worked as both a frontend developer and a business analyst. This experience has given me a broad perspective on the IT industry and has fueled my interest in various fields within it.
 
 - **Frontend Developer Intern, Silky Coders** (Gdańsk, July 2022 - January 2023)
 
@@ -27,15 +29,23 @@
   - Gained a deep understanding of the mathematical foundations of computer science, algorithms, and data structures.
   - Explored various programming languages like JavaScript, Python, and Java, broadening my horizons in software development.
   - Delved into the world of web technologies, mastering HTML, CSS, React, TypeScript, and NodeJS, enabling me to create robust and dynamic web applications.
-  - Learned how to work with data, understanding both relational and non-relational databases.
+  - Learned how to analyse, visualise, and interpret data,
+  - Acquired extensive knowledge of AI and completed several exciting projects based on AI/ML technologies.
   - Improved my cooperation skills by collaborating with a team of students to create a real-world web project, applying agile development methodologies and version control with Git.
 
 ### Tech Stack:
 
-- React
-- JavaScript
-- TypeScript
-- HTML & CSS
+#### Data Science & AI
+
+One of my primary areas of interest is AI/ML and data science. I am continuously developing my skills in this direction and am always eager to explore new advancements in the field.
 - Python
-- Basics of Java
+- AI/ML tools like TensorFlow & PyTorch
+- Data Processing and Data Visualization tools like: SQL, Excel, Power BI, Pandas
+
+#### Web Development
+
+Creating websites is another field that I am passionate about and I had the pleasure of gaining my first professional experience in it
+- React
+- JavaScript / TypeScript
+- HTML & CSS
 - Basics of NodeJS
