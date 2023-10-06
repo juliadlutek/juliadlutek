@@ -35,7 +35,7 @@ I have a diverse professional background, having worked as both a frontend devel
 
 ### Tech Stack:
 
-#### Data Science & AI
+#### Data Analysis, Data Science & AI
 
 One of my primary areas of interest is AI/ML and data science. I am continuously developing my skills in this direction and am always eager to explore new advancements in the field.
 - Python
