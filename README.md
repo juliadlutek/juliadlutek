@@ -35,17 +35,10 @@ I have a diverse professional background, having worked as both a frontend devel
 
 ### Tech Stack:
 
-#### Data Analysis, Data Science & AI
-
-One of my primary areas of interest is AI/ML and data science. I am continuously developing my skills in this direction and am always eager to explore new advancements in the field.
-- Python
-- AI/ML tools like TensorFlow & PyTorch
-- Data Processing and Data Visualization tools like: SQL, Excel, Power BI, Pandas
-
-#### Web Development
-
 Creating websites is another field that I am passionate about and I had the pleasure of gaining my first professional experience in it
 - React
 - JavaScript / TypeScript
 - HTML & CSS
-- Basics of NodeJS
+- NodeJS & ExpressJS
+- Python
+- Basics of Java
