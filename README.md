@@ -64,7 +64,3 @@ I have a diverse professional background, having worked as both a Frontend Devel
 - **Excel, VBA**
 - **Sharepoint**
 - **PowerBI**
-
-### Goals:
-
-I am actively seeking opportunities as a Junior RPA Developer. My goal is to apply and expand my RPA skills, contribute to innovative projects, and continue learning in a dynamic and collaborative environment.
